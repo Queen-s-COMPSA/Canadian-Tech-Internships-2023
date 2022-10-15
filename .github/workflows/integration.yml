@@ -20,3 +20,11 @@ jobs:
         with:
           prettier_options: --write README.md
           only_changed: True
+
+      - name: Commit to the repo
+        run: |
+          git config --global user.name "knlnks"
+          git config --global user.email "soulkks@hotmail.ca"
+          git add .
+          git commit -m '💅 Prettify' || echo
+          git push
