@@ -121,3 +121,4 @@ This is a list of Canadian tech internships for 2023. This list is maintained by
 | Zendesk             | [2023 Summer Intern - Software Engineering](https://jobs.zendesk.com/us/en/job/R22858/2023-Summer-Intern-Software-Engineering)                                                                             | Montreal, Remote                                        | May 2023       | 4 months       | - Deadline of November 24th                                                                           |
 | Grafana Labs | [Security Intern Program](https://boards.greenhouse.io/grafanalabs/jobs/4684978004) | Remote | May 2023 | 12 weeks | - Must be graduating in 2024 |
 | Siemens | [Engineering / Programming COOP](https://jobs.siemens.com/jobs/340993?lang=en-us) |  Oakville  | ???| ??? | |
+| Cloudflare | [Research Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/4606797?gh_jid=4606797) | Remote | ??? | ??? |  |
