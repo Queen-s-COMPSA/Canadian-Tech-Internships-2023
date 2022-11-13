@@ -126,3 +126,4 @@ This is a list of Canadian tech internships for 2023. This list is maintained by
 | Ripple | [Multiple Roles](https://ripple.com/careers/all-jobs/toronto-canada/engineering/) | Remote | May 2023 | 12 weeks | |
 | Holman | [Developer Co-Op](https://careers.holman.com/us/en/job/R0040377/Developer-Co-Op) | Mississauga | ??? | ??? | |
 | CN | [Multiple Roles](https://cn360.csod.com/ux/ats/careersite/6/home?c=cn360&country=ca&lang=en-US) | ??? | Jan 2023 |  4 months | |
+| Canadian Nuclear Labs | [Comupter Software and Systems Developer Student](https://tre.tbe.taleo.net/tre01/ats/careers/v2/viewRequisition?org=CNLLTD&cws=37&rid=5186) | Remote | May 2023 | 4 months | - - Deadline of November 23rd + Must be able to get security clearance  |
