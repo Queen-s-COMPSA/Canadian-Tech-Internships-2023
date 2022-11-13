@@ -125,3 +125,4 @@ This is a list of Canadian tech internships for 2023. This list is maintained by
 | Zendesk             | [2023 Summer Intern - Software Engineering](https://jobs.zendesk.com/us/en/job/R22858/2023-Summer-Intern-Software-Engineering)                                                                             | Montreal, Remote                                        | May 2023       | 4 months       | - Deadline of November 24th                                                                           |
 | Ripple | [Multiple Roles](https://ripple.com/careers/all-jobs/toronto-canada/engineering/) | Remote | May 2023 | 12 weeks | |
 | Holman | [Developer Co-Op](https://careers.holman.com/us/en/job/R0040377/Developer-Co-Op) | Mississauga | ??? | ??? | |
+| CN | [Multiple Roles](https://cn360.csod.com/ux/ats/careersite/6/home?c=cn360&country=ca&lang=en-US) | ??? | Jan 2023 |  4 months | |
