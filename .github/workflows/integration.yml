@@ -15,10 +15,6 @@ jobs:
         with:
           ref: ${{ github.head_ref }}
 
-      - name: Sort README.md
-        run: ./sort.sh
-        shell: bash
-
       - name: Prettify
         uses: creyD/prettier_action@v4.2
         with:
