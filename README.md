@@ -142,3 +142,4 @@ This is a list of Canadian tech internships for 2023. This list is maintained by
 | Circle                | [Software Engineer Intern](https://www.circle.com/en/careers-detail/software-engineer-intern)                                                                                                              | Remote                                                  | May 2023       | 4 months       |                                                                                                       |
 | Mely.ai | [Software Engineer Intern](https://www.linkedin.com/jobs/view/3365894030/) | Remote | Jan, May 2023 | 4 - 8 months | |
 | Arvato Systems | [Software Developer Intern](https://jobsearch.createyourowncareer.com/Arvato_Systems/job/Toronto-Software-Developer-Consultant-Internship-ON-M5V-2Y1/852048401/) |   Toronto | ??? | ??? | |
+| Balyasny Asset Management | [Multiple Roles](https://bamfunds.force.com/s/) | Toronto | Jan, May 2023 | 4 months | |
