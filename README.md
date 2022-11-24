@@ -143,3 +143,4 @@ This is a list of Canadian tech internships for 2023. This list is maintained by
 | Arvato Systems | [Software Developer Intern](https://jobsearch.createyourowncareer.com/Arvato_Systems/job/Toronto-Software-Developer-Consultant-Internship-ON-M5V-2Y1/852048401/) |   Toronto | ??? | ??? | |
 | Balyasny Asset Management | [Multiple Roles](https://bamfunds.force.com/s/) | Toronto | Jan, May 2023 | 4 months | |
 | Ribbon                | [Multiple Roles](https://vhr-genband.wd1.myworkdayjobs.com/en-US/ribboncareers?jobFamily=196d2e44ff7901ed1377206e01972f41)                                     | Ottawa, Montreal                                                  | ???       | 4 months       |                                                                                                       |
+| CMHC | [Multiple Roles](https://careers.cmhc-schl.gc.ca/search/?q=internship) | Remote | May 2023 | 4 months | |
