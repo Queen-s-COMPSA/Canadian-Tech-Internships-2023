@@ -148,3 +148,4 @@ This is a list of Canadian tech internships for 2023. This list is maintained by
 | PCL                       | [Software Developer Student](https://careers.pcl.com/job/Edmonton-Software-Developer-Student-AB/932258800)                     | Edmonton                                                | Jan 2023       | 4-16 months    |                                                                                                       |
 | Picovoice | [Multiple Roles](https://angel.co/company/picovoice/jobs?jobTypes=internship) | Vancouver | ??? | ??? | |
 | Trexo Robotics | [Multiple Roles](https://angel.co/company/trexo-robotics/jobs?jobTypes=internship) | Mississauga | ??? | ??? | |
+| Mirantis | [Software Engineer Intern](https://www.smartrecruiters.com/Mirantis/743999854567798-intern-software-engineer) | Kitchener, Remote | ??? | ??? | |
