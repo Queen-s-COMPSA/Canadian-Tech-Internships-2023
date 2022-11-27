@@ -153,3 +153,4 @@ This is a list of Canadian tech internships for 2023. This list is maintained by
 | Electronic Arts           | [Multiple Roles](https://ea.gr8people.com/jobs?inp1377=2&keyword=canada)                                                                                                                                   | Vancouver                                               | May 2023       | 16 weeks       |                                                                                                       |
 | Kepler | [Multiple Roles](https://jobs.lever.co/kepler/?commitment=Intern%2FCo-op) | Toronto | Jan, May 2023 | 4 - 16 months | |
 | Power | [Software Engineering Co-op](https://boards.greenhouse.io/powerfinance/jobs/4132423005) | Remote | Jan 2023 | 4 months | |
+| Eastlink | [System Administrator/Software Developer](https://can63.dayforcehcm.com/CandidatePortal/en-us/eastlink/Posting/View/6504) | Halifax | ??? | ??? | |
