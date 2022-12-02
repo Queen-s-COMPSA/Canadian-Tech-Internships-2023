@@ -23,8 +23,8 @@ jobs:
 
       - name: Commit to the repo
         run: |
-          git config --global user.name "knlnks"
-          git config --global user.email "soulkks@hotmail.ca"
+          git config --global user.name "queenscompsa"
+          git config --global user.email "compsa@compsa.queensu.ca"
           git add .
           git commit -m '💅 Prettify' || echo
           git push
