@@ -173,3 +173,4 @@ This is a list of Canadian tech internships for 2023. This list is maintained by
 | Affirm                    | [Software Engineer Intern](https://boards.greenhouse.io/affirm/jobs/5283830003)                                                                                                                            | Remote                                                  | May 2023       | 12 - 16 weeks  |                                                                                                       |
 | Bit Quill | [Co-Op Developer](https://jobs.lever.co/bitquilltech/a35ba224-fcb0-4c2c-accd-9f9ae8bbd37e) | Vancouver | ??? | ??? | |
 | Ciena | [Control Plane Software Developer](https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Control-Plane-Software-Developer-Winter-2023-Co-Op_R020874) | Ottawa | Jan 2023 | 8 months | |
+| Apply Digital | [Multiple Roles](https://apply-digital.breezy.hr/) | Remote | ??? | ??? | |
