@@ -186,3 +186,4 @@ This is a list of Canadian tech internships for 2023. This list is maintained by
 | Nuance                    | [Multiple Roles](https://nuance.wd1.myworkdayjobs.com/Nuance?workerSubType=c4e9ede3a575015118dacdc31e276c0b&locationCountry=a30a87ed25634629aa6c3958aa2b91ea)                                              | Montreal                                                | Jan, May 2023  | ???            |                                                                                                       |
 | Veeva | [Intern Release Engineer](https://careers.veeva.com/job/16917424/) | Toronto | ??? | 8 months | |
 | Acurve | [Multiple Roles](https://can63.dayforcehcm.com/CandidatePortal/en-US/arcurve?q=intern) | Calgary, Edmonton, Halifax, Vancouver | ??? | 4 - 16 months | |
+| Ceridian | [Multiple Roles](https://jobs.dayforcehcm.com/mydayforce/alljobs?searchText=intern&locationString=toronto&distance=100) | Remote, Toronto | Jan, May 2023 | 4 - 12 months | |
