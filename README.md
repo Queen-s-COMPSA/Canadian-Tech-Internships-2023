@@ -193,3 +193,4 @@ This is a list of Canadian tech internships for 2023. This list is maintained by
 | Loblaws                   | [Multiple Roles](https://myview.wd3.myworkdayjobs.com/loblaw_careers_carrieres/?jobPostingEmployeeContractType=d52e5b359299015099afcac2be01c8ab)                                                           | Toronto, Brampton                                       | May 2023       | 4 - 12 months  |                                                                                                       |
 | Inworld | [Software Engineering Intern](https://jobs.lever.co/inworld/e2c7362e-1f5e-410a-9afa-4a25b3c51f92) | Vancouver | May 2023 | 12 - 16 weeks | |
 | General Dynamics | [Software Engineering Co-op](https://cacoop-gdms.icims.com/jobs/58290/job) | Ottawa | May 2023 | 4 - 12 months | |
+| Cowbell | [Software Engineer (Platform) Intern](https://boards.greenhouse.io/cowbellcyber/jobs/5432241003) | Toronto | Jan 2023 | 4 months | |
