@@ -207,3 +207,4 @@ This is a list of Canadian tech internships for 2023. This list is maintained by
 | DRW | [Data Scientist Intern](https://drw.com/work-at-drw/job/data-scientist-intern-2412776/) | Montreal | May 2023 | 4 months |  |
 | Axon | [Software Engineering Internship](https://boards.greenhouse.io/axon/jobs/5293113003) | Remote | May 2023 | 4 months |  |
 | Brave | [Computer Science Ph.D. Internships](https://brave.com/careers/?gh_jid=4680861) | Remote | June 2023 | 3 months | |
+| ETHGlobal | [Software Engineering Intern](https://jobs.lever.co/ETHGlobal/d0d6f1af-9488-44f1-ad95-1f53f980ad1d) | Remote | May 2023 | 3 - 4 months | |
