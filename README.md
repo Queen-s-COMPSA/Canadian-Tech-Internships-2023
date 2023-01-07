@@ -211,3 +211,4 @@ This is a list of Canadian tech internships for 2023. This list is maintained by
 | ADP | [Application Development](https://jobs.adp.com/job/17561372/summer-2023-internship-application-development-etobicoke-ca/) | Etobicoke | May 2023 | 4 months | |
 | ExxonMobil | [Software + QA + Maintenance + Engineering Roles](https://jobs.exxonmobil.com/ExxonMobil/search/?q=student&locationsearch=canada) | St. John's, Calgary | May 2023 | 4 - 12 months | |
 | Koho | [Software + Cybersec Roles](https://jobs.lever.co/koho?commitment=Co-Op) | Remote | May 2023 | 4 months | |
+| Workiva | [Software Development Intern](https://workiva.wd1.myworkdayjobs.com/en-US/careers/job/Summer---Software-Development-Intern--CAN-_R5780) | Sault Ste. Marie, Remote | May 2023 | 4 months | - All postings close: February 19th, 2023 |
