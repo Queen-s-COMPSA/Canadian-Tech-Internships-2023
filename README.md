@@ -296,3 +296,4 @@ This is a list of Canadian tech internships for 2023. This list is maintained by
 | Coinbase | [SWE + Security + Product Design + User Research](https://www.coinbase.com/careers/positions?department=Internships%2520%2526%2520University%2520Grad%2520Positions) | Remote | ??? | ??? | |
 | Holman | [Developer](https://careers.holman.com/us/en/job/R0041537) | Mississauga | ??? | ??? | |
 | Intelliware | [Software Developer](https://jobs.lever.co/intelliware/24345432-7189-4849-a389-3bad4abde843) | Toronto | May 2023 | 12 - 16 months | |
+| Rakuten Rewards | [Software Engineer](https://rakuten.wd1.myworkdayjobs.com/en-US/RakutenRewards?workerSubType=65b391928e9f108f04a4b741f4e34d5e&locationCountry=a30a87ed25634629aa6c3958aa2b91ea) | Toronto | May 2023 | 12 weeks | |
