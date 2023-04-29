@@ -317,5 +317,6 @@ This is a list of Canadian tech internships for 2023. This list is maintained by
 | GURUS                     | [Cloud Developer (BI Team)](https://gurussolutions.com/jobs/summer-intern-cloud-developer-bi-team?gh_jid=5003894)                                                                                                                                   | Montreal                                                                                                                                                                                | ???                | ???            |
 | Equinix | [Software Engineer](https://equinix.wd1.myworkdayjobs.com/External/job/Toronto/Software-Development-Intern_JR-135848) | Toronto | May 2023 | 4 months |
 | Nakisa | [Software Developer](https://jobs.jobvite.com/careers/nakisa/job/o0z4mfwJ) | Montreal | ??? | ??? |
+| Arlo | [Firmware Developer](https://phg.tbe.taleo.net/phg01/ats/careers/v2/viewRequisition?org=NETGINC&cws=37&rid=3811) | Richmond | ??? | 8 months |
 
 ## End of List
